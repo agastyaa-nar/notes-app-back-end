@@ -1,4 +1,4 @@
-# 📒 NOTES-APP-BACK-END
+# NOTES-APP-BACK-END
 
 *Empowering Seamless, Reliable Note Management Everywhere*
 
