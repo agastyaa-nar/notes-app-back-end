@@ -74,7 +74,7 @@ Build notes-app-back-end from the source and install dependencies:
 Run the project with :
 
   ```bash
-    npm start
+    npm run start:dev
   ```
 
 
