@@ -34,7 +34,7 @@ Notes-app-back-end is a flexible Node.js backend designed to support note-taking
 
 This project simplifies building a reliable backend for note management. The core features include:
 
-- <strong>Modular design : </strong>  Clear separation of concerns with dedicated modules for notes, routes, handlers, and server setup.
+- <strong>Modular design :</strong>  Clear separation of concerns with dedicated modules for notes, routes, handlers, and server setup.
 - <strong>API Routing : </strong>   Efficiently maps HTTP requests to appropriate handlers, streamlining CRUD operations.
 - <strong>Note Management : </strong>   Centralized data store for creating, retrieving, updating, and deleting notes.
 - <strong>Code Quality : </strong>   Integrated ESLint configuration to maintain consistent coding standards.
@@ -47,7 +47,7 @@ This project simplifies building a reliable backend for note management. The cor
 
 ## Prerequisites
 This project require the following dependencies:
-- <strong>Programming Language: <\strong> Javascript
+-  <strong> Programming Language <\strong> Javascript
 -  <strong>Package Manager: <\strong> NPM
 
 ## Installation
